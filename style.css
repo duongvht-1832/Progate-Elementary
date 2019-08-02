@@ -1,52 +1,54 @@
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 .header {
-    background-color: aquamarine;
-    color:white;
-    width: 100%;
-    height: 100px;
+  background-color: aquamarine;
+  color: white;
+  width: 100%;
+  height: 100px;
 }
 
 .header-logo {
-    font-size: 40px;
-    padding: 20px;
+  font-size: 40px;
+  padding: 20px;
 }
 
-li{
-    font-size: 18px;
-    list-style: none;
-    float:left;
+li {
+  font-size: 18px;
+  list-style: none;
+  float: left;
 }
 
 .main {
-    padding: 20px 20px;
+  padding: 20px 20px;
 }
 .helloworld {
-    font-size: 80px;
-    font-weight: bold;
-    /* padding-bottom: 20px; */
+  font-size: 80px;
+  font-weight: bold;
+  /* padding-bottom: 20px; */
 }
-.youkoso{
-    font-size: 60px;
-    font-weight: bold;
+.youkoso {
+  font-size: 60px;
+  font-weight: bold;
 }
 .dot {
-    font-size: 100px;
-    font-weight: bold;
-    color: red;
+  font-size: 100px;
+  font-weight: bold;
+  color: red;
 }
-.learnable{
-    padding: 10px;
+.learnable {
+  padding: 10px;
 }
-.lessons{
-    font-weight: bold;
-    font-size: 20px;
-    border-bottom: 2px solid darkseagreen;
+.lessons {
+  font-weight: bold;
+  font-size: 20px;
+  border-bottom: 2px solid darkseagreen;
+}
+.item {
+  float: left;
+  padding: 15px;
+}
 
+footer {
+    padding:10px;
 }
-.item{
-float: left;
-padding: 15px;
-}
-
